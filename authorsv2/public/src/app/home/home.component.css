@@ -1,0 +1,23 @@
+.table {
+    width: 50%;
+    margin-left: 5%;
+}
+.show{
+    margin-left: 10%;
+}
+.button{
+    background-color: greenyellow;
+    padding:3px 15px;
+    border: 1px black solid;
+    border-radius: 10px;
+    margin-left: 5%;
+    box-shadow: 0 8px 6px -6px black;
+}
+.button1{
+    background-color: rgb(255, 0, 0);
+    padding:3px 15px;
+    border: 1px black solid;
+    border-radius: 10px;
+    margin-left: 5%;
+    box-shadow: 0 8px 6px -6px black;
+}
